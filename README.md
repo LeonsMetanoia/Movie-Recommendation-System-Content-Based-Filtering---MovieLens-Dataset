@@ -33,7 +33,7 @@ The dataset used in this project is from the [MovieLens Project (ml-latest-small
 
 ```python
 recommend_movies("Toy Story")
-
+```
 Top 10 Recommendations for 'Toy Story':
 ['Aladdin and the King of Thieves (1996)',
  'American Tail, An (1986)',
