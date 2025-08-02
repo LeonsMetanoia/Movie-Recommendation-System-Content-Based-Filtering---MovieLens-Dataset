@@ -1,5 +1,9 @@
 # 🎬 Movie Recommendation System (Content-Based Filtering)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dbb75105-356e-4b7a-8519-f01007918195" alt="WeWillProtectYouMisterFantasticGIF" />
+</p>
+
 This project builds a simple and effective content-based movie recommendation system using Python and pandas. The system recommends movies based on genres and descriptions similar to a given movie.
 
 ## 📌 Project Objective
